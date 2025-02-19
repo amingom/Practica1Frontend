@@ -1,0 +1,83 @@
+.cabecera {
+    display: flex;
+    justify-content: center;
+    font-family: Arial;
+    font-size: 40;
+}
+.descripcion {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    width: 50%;
+    margin: auto;
+    text-align: justify;
+}
+.sobreMi{
+    width: 100%;
+    float: left;
+}
+.info_corta {
+    display: flex;
+    justify-content: center;
+    width: 50%;
+    margin: auto;   
+}
+.info{
+    width: 100%;
+}
+.bonita {
+    border-radius: 50%;
+    border: 2px solid aquamarine;
+    display: flex;
+}
+.redes_sociales {
+    margin-top: 0.2cm;
+    display: flex;
+    justify-content: center; 
+    gap: 15px; 
+    float: left;
+    color: black;
+}
+.experienciaLaboral{
+    width: 50%;
+    margin: auto;
+}
+.trabajos{
+    display: flex;
+    justify-content: space-between;
+    width: 100%;
+}
+.fecha{
+    margin-left: auto;
+}
+.texto{
+    width: 80%;
+    text-align: justify;
+    font-family: Arial;
+    font-size: 17;
+}
+.formacion{
+    width: 50%;
+    margin: auto;
+}
+.boton{
+    margin-left: auto;
+}
+
+.titulo {
+    font-family: Arial;
+    font-size: 25;
+}
+.extra {
+    font-family: Arial;
+    font-size: 20;
+}
+.texto_Formacion {
+    display: flex;
+    justify-content: space-between;
+    width: 50%;
+    margin: auto;
+    text-align: justify;
+    font-family: Arial;
+    font-size: 17;
+}
